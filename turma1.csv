@@ -1,0 +1,19 @@
+tipo;matricula;nome;genero;email;ano;media;areaConhecimento;limiteAlunos;horasAula
+turma;DAS001;Automatizados;;;2019;;Computação;30;72
+professor;000;Rômulo;M;romulo.deoliveira@ufsc.br;1962;;Computação;;
+professor;001;Stemmer;M;stemmer@ufsc.br;1962;;Computação;;
+aluno;100;Victor;M;victor.xr8@gmail.com;1999;9.0;;;
+aluno;101;Mathias;M;mdutranichele@gmail.com;1999;8.5;;;
+aluno;102;Goiás;M;goi@s.com;2000;8.6;;;
+aluno;103;Fábio;M;fabio@avai.com;1998;8.3;;;
+aluno;104;Tapetinho;M;n tem;2000;10.6;;;
+aluno;105;Leandra;F;ngostodo@afonso.com;2000;9.6;;;
+aluno;106;José;M;filo@sofia.com;1982;8.9;;;
+aluno;107;Amanda;F;amanda@gmail.com;1999;9.0;;;
+aluno;108;Marcio;M;marcio@gmail.com;1999;8.5;;;
+aluno;109;Pedro;M;pedro@gmail.com;2000;8.6;;;
+aluno;110;Augusto;M;augusto@gmail.com;1998;8.3;;;
+aluno;111;Giovanni;M;giovanni@gmail.com;2000;10.6;;;
+aluno;112;Andre;F;andre@gmail.com;2000;9.6;;;
+aluno;113;Mario;M;marcio@gmail.com;1982;8.9;;;
+aluno;114;Marcos;M;marcos@gmail.com;1999;9.0;;;

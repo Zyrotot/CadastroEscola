@@ -1,0 +1,22 @@
+tipo;matricula;nome;genero;email;ano;media;areaConhecimento;limiteAlunos;horasAula
+turma;DAS002;Discretas;;;2019;;Discretas;40;90
+professor;002;Felipe;M;felipe@ufsc.br;1962;;Discretas;;
+professor;003;Carlson;M;carlson@ufsc.br;1962;;Enxame;;
+aluno;101;Mathias;M;mdutranichele@gmail.com;1999;8.5;;;
+aluno;115;Gabriela;F;gabriela@gmail.com;1999;8.5;;;
+aluno;116;Peterson;M;peterson@gmail.com;2000;8.6;;;
+aluno;117;Ronaldinho;M;ronaldinho@gmail.com;1998;8.3;;;
+aluno;118;Alfredo;M;alfredo@gmail.com;2000;10.6;;;
+aluno;119;Ronald;F;ronald@gmail.com;2000;9.6;;;
+aluno;120;McDonald;X;mcdonald@gmail.com;1982;8.9;;;
+aluno;121;Burger King;F;kingb@gmail.com;1999;9.0;;;
+aluno;122;Guilherme;M;guilherme@gmail.com;1999;8.5;;;
+aluno;123;Azazel;F;azazel@gmail.com;2000;8.6;;;
+aluno;124;Pew Pie;M;pewpie@gmail.com;1998;8.3;;;
+aluno;125;Pablo;X;vit@gmail.com;1998;8.3;;;
+aluno;126;Anderson;M;anderson@gmail.com;2000;10.6;;;
+aluno;127;Julia;F;julia@gmail.com;2000;9.6;;;
+aluno;128;Victoria;M;victoria@gmail.com;1982;8.9;;;
+aluno;129;Roberta;F;roberta@gmail.com;1999;9.0;;;
+aluno;130;Maria;F;maria@gmail.com;1999;8.5;;;
+aluno;131;Jaqueline;F;jaq@gmail.com;1963;9.5;;;
